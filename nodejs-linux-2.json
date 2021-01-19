@@ -5,7 +5,7 @@
     "hostingPlanName": "[replace(resourceGroup().name,'.','')]",
     "siteName": "[concat(toLower(variables('hostingPlanName')), '-nodejs-linux-2-', uniqueString(resourceGroup().id))]",
     "sku": "S1",
-    "repoURL": "https://github.com/edisga/sails-slow-performance.git",
+    "repoURL": "https://github.com/azureossd/nodejs-linux-2.git",
     "branch": "master",
     "siteConfig": {
       "linuxFxVersion": "NODE|12-lts"
