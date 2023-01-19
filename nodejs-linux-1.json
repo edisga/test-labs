@@ -11,8 +11,8 @@
         "linuxFxVersion": "NODE|12-lts",
         "appSettings": [
           {
-            "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
-            "value": "true"
+            "name": "DISABLE_NODEJS_BUILD",
+            "value": "false"
           }
         ]
       }
