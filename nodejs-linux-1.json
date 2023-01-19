@@ -11,8 +11,8 @@
         "linuxFxVersion": "NODE|12-lts",
         "appSettings": [
           {
-            "name": "YARN_TIMEOUT_CONFIG",
-            "value": "1000000"
+            "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+            "value": "true"
           }
         ]
       }
