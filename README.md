@@ -4,7 +4,7 @@
 
 ## App Service NodeJS Linux 1
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fedisga%2Ftest-labs%2Fmaster%2Fnodejs-linux-1.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fedisga%2Ftest-labs%2Fmaster%2Fnodejs-linux-1.json)
 
 
 ## App Service NodeJS Linux 2
