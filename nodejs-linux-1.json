@@ -8,10 +8,10 @@
       "repoURL": "https://github.com/edisga/test-lab1.git",
       "branch": "main",
       "siteConfig": {
-        "linuxFxVersion": "NODE|12-lts",
+        "linuxFxVersion": "NODE|14-lts",
         "appSettings": [
           {
-            "name": "DISABLE_NODEJS_BUILD",
+            "name": "ENABLE_ORYX_BUILD",
             "value": "false"
           }
         ]
