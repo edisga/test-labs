@@ -13,6 +13,10 @@
           {
             "name": "ENABLE_ORYX_BUILD",
             "value": "false"
+          },
+          {
+            "name":"SCM_SCRIPT_GENERATOR_ARGS",
+            "value":"--basic"
           }
         ]
       }
