@@ -8,7 +8,13 @@
       "repoURL": "https://github.com/azureossd/nodejs-linux-1.git",
       "branch": "main",
       "siteConfig": {
-        "linuxFxVersion": "NODE|12-lts"
+        "linuxFxVersion": "NODE|12-lts",
+        "appSettings": [
+          {
+            "name": "YARN_TIMEOUT_CONFIG",
+            "value": "1000000"
+          }
+        ]
       }
     },
     "resources": [
